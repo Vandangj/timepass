@@ -1,6 +1,0 @@
-git clone https://github.com/yourusername/my-website.git
-cd my-website
-# copy your files here
-git add .
-git commit -m "Initial website upload"
-git push
